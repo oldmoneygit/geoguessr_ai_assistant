@@ -1,0 +1,19 @@
+
+geoguessr_backend/
+geoguessr_frontend/
+# Ambientes virtuais e configurações locais
+venv/
+.env/
+.bin
+.json
+# Node modules
+node_modules/
+
+# Arquivos temporários
+*.pyc
+__pycache__/
+.DS_Store
+
+# Outros
+*.log
+*.sqlite3
