@@ -17,3 +17,6 @@ __pycache__/
 # Outros
 *.log
 *.sqlite3
+
+.env
+vision_key.json
